@@ -4,7 +4,7 @@ import os
 
 '''
 #here is tested data, ignore them
-picroute = "/Users/luyijou/Desktop/ Mine/图片/表情包/csgo表情"
+picroute = "/Users/xD/Desktop/ Mine/图片/表情包/csgo表情"
 size = (394,248)
 width,height = size
 heightnum = 13
